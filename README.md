@@ -2,7 +2,7 @@
 <!-- <img src="https://some/banner.gif" align="center" /> -->
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">Software Engineer | Backend| Istanbul</h3>
+<h3 align="center">Software Engineer | Backend | Istanbul</h3>
 
 <p align="center">
   <a href="https://github.com/yunusakin" target="_blank">
