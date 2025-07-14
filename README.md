@@ -1,8 +1,8 @@
 <!-- Banner or animated GIF (optional, comment/remove if you don’t want) -->
 <!-- <img src="https://some/banner.gif" align="center" /> -->
 
-<h1 align="center">Hi 👋, I'm Yunus AKIN</h1>
-<h3 align="center">Senior Software Engineer | Backend & Cloud Enthusiast | Istanbul</h3>
+<h1 align="center">Hi 👋, I'm Yunus</h1>
+<h3 align="center">Software Engineer | Backend| Istanbul</h3>
 
 <p align="center">
   <a href="https://github.com/yunusakin" target="_blank">
