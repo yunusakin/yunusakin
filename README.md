@@ -1,4 +1,4 @@
-<!-- "Website" Style GitHub Profile README for Yunus -->
+
 
 <div align="center" style="margin-bottom: 2rem;">
 
@@ -11,9 +11,6 @@
     </a>
     <a href="https://linkedin.com/in/yunusakinn" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/yunusakin" target="_blank">
-      <img src="https://img.shields.io/github/followers/yunusakin?label=GitHub&style=for-the-badge&logo=github" />
     </a>
     <a href="https://medium.com/@yunusakinn" target="_blank">
       <img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" />
