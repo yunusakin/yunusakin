@@ -18,13 +18,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" alt="Email"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/22222022?v=4" width="180" alt="yunus akin avatar" style="border-radius:50%">
-</p>
-
 ---
 
 <h3 align="center">🔭 What I'm working on</h3>
