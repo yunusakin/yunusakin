@@ -1,10 +1,10 @@
 ## Hi, I'm Yunus
 
-**Software Developer** building enterprise backend systems with Java and Spring.
+**Software Developer** focused on backend development with Java and Spring.
 
-I design and deliver APIs, integrations, and data-intensive services with microservice patterns and cloud-native tooling.
+I mostly work on APIs, integrations, and data-heavy business services.
 
-I actively use **AI-assisted development** to speed up implementation, code review, and delivery quality.
+Lately, I also use **AI-assisted development** in day-to-day work for coding and code reviews.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yunusakin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yunusakin)
 ![Role](https://img.shields.io/badge/Role-Expert%20Developer-0B5FFF?style=flat)
@@ -13,9 +13,9 @@ I actively use **AI-assisted development** to speed up implementation, code revi
 
 [LinkedIn](https://linkedin.com/in/yunusakinn) | [Medium](https://medium.com/@yunusakinn) | [Email](mailto:info.yunus.akin@gmail.com) | Istanbul
 
-- 💼 Enterprise backend developer with a strong Java and Spring foundation.
+- 💼 Backend developer focused on enterprise Java and Spring projects.
 - 🧩 Daily stack: Java, Spring Boot, MongoDB, PostgreSQL, Docker, microservices, and cloud.
-- 🤖 Applying AI-assisted workflows for implementation, review, and documentation.
+- 🤖 Using AI-assisted workflows in daily implementation and reviews.
 
 ## Enterprise Java Stack
 
@@ -45,13 +45,13 @@ I actively use **AI-assisted development** to speed up implementation, code revi
 
 ## Contact
 
-- 📝 I write articles on [medium.com/@yunusakinn](https://medium.com/@yunusakinn)
-- 📫 How to reach me [info.yunus.akin@gmail.com](mailto:info.yunus.akin@gmail.com)
+- 📝 I share notes on [medium.com/@yunusakinn](https://medium.com/@yunusakinn)
+- 📫 Reach me at [info.yunus.akin@gmail.com](mailto:info.yunus.akin@gmail.com)
 
 ## Currently Working On
 
-- 🤖 Practical AI-assisted development workflows for backend delivery.
-- ☁️ Microservice architecture patterns and cloud-ready service design.
+- 🤖 Practical AI-assisted workflows for backend development.
+- ☁️ Microservice patterns and cloud architecture.
 - ✍️ Sharing Java and Spring notes on Medium.
 
 ## GitHub Stats
