@@ -2,8 +2,6 @@
 
 **Software Developer** focused on backend development with Java and Spring.
 
-I mostly work on APIs, integrations, and data-heavy business services.
-
 Lately, I also use **AI-assisted development** in day-to-day work for coding and code reviews.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yunusakin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yunusakin)
