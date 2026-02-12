@@ -15,7 +15,7 @@ Lately, I also use **AI-assisted development** in day-to-day work for coding and
 - 🧩 Daily stack: Java, Spring Boot, MongoDB, PostgreSQL, Docker, microservices, and cloud.
 - 🤖 Using AI-assisted workflows in daily implementation and reviews.
 
-## Enterprise Java Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-Primary-E76F00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat&logo=spring&logoColor=white)
