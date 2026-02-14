@@ -11,7 +11,7 @@ Lately, I also use **AI-assisted development** in day-to-day work for coding and
 
 [LinkedIn](https://linkedin.com/in/yunusakinn) | [Medium](https://medium.com/@yunusakinn) | [Email](mailto:info.yunus.akin@gmail.com) | Istanbul
 
-- 💼 Backend developer focused on enterprise Java and Spring projects.
+- 💼 Backend developer focused on Java and Spring projects.
 - 🧩 Daily stack: Java, Spring Boot, MongoDB, PostgreSQL, Docker, microservices, and cloud.
 - 🤖 Using AI-assisted workflows in daily implementation and reviews.
 
