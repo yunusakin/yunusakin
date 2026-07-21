@@ -5,7 +5,7 @@
 Lately, I also use **AI-assisted development** in day-to-day work for coding and code reviews.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yunusakin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yunusakin)
-![Role](https://img.shields.io/badge/Role-Expert%20Developer-0B5FFF?style=flat)
+![Role](https://img.shields.io/badge/Role%20Developer-0B5FFF?style=flat)
 ![Domain](https://img.shields.io/badge/Domain-Enterprise%20Backend-0A7A5E?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-AI--Assisted%20Development-7A3E9D?style=flat)
 
